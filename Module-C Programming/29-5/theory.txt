@@ -1,0 +1,94 @@
+Tops Career Center
+
+Basic Programming
+
+Program - It's a set of Instructions
+
+Programming
+
+Types of Programming
+1)Procedural Programming:
+ex: C Lan
+
+2)Object Oriented Programming:
+ex: C++,Java,Php
+
+3)Logical Programming:
+ex: Cobol,Prolog
+
+4)Functional Programming:
+ex:Python,Kotlin
+
+Setup:
+C: Turbo C++,Dev C++,Vs Code
+
+C Programming:
+Words
+==================================
+Library -> header files
+stdio -> standard input output
+conio -> console input output
+
+#include<stdio.h>
+
+# -> Pre Processor
+
+
+#include<stdio.h>
+#include<conio.h>
+====================================
+main() -> main method,main function
+====================================
+Code
+
+\n -> New Line
+\t -> tab
+
+data type:
+
+integer -> int -> numeric value[1,2,3 etc..]-> %d
+float   -> float -> decimal value[5.6,7.89,4.56 etc..]-> 4 byte -> %f
+character -> char -> single characters['A','B'] -> %c
+double -> double -> decimal value[5.699999,7.89666,4.56555 etc..]-> 8 byte->%lf
+
+variable:
+int a,b;
+
+Operator:
+Arithmetic Operator : +,-,*,/,%
+
+Pi*r*r
+
+
+
+
+--------------------------------------------------------------------
+Task 1:
+Name		Age
+Ved		20
+Romit		..
+Hensi		..
+Divya		..
+Pratik		..
+
+\n
+\t
+printf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
