@@ -1,0 +1,10 @@
+Path Set:C:\MinGW\bin
+
+This Pc-> right click ->properties->
+advanced system settingsd->environment variables->
+click on path -> new -> paste your path
+->click on OK
+
+
+
+
