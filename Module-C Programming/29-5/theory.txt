@@ -14,7 +14,7 @@ ex: C Lan
 ex: C++,Java,Php
 
 3)Logical Programming:
-ex: Cobol,Prolog
+ex: Prolog
 
 4)Functional Programming:
 ex:Python,Kotlin
