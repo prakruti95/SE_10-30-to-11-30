@@ -1,0 +1,17 @@
+Assign bonus to employees based on years of service.
+
+Compare three integers and print them in ascending order using nested if.
+
+Check if a number is positive, negative, or zero.
+
+Find the largest among two numbers.
+
+Check whether a given number is even or odd.
+
+Determine if a person is eligible to vote (age ≥ 18).
+
+Find the greatest among three numbers using nested if.
+
+Swap two numbers using third variable
+
+Swap two numbers without using third variable
