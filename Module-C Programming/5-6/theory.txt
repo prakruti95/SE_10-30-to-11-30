@@ -1,0 +1,24 @@
+conditioal statement:
+1)if-else
+
+if(condition)
+{
+	statement
+}
+else
+{
+	statement
+}
+
+a=5//assignment Op
+a==5//comparision Op
+
+2)Multiple Conditions:else if
+
+3)nested if
+if()
+{
+	if()
+	{
+	}
+}
