@@ -1,0 +1,77 @@
+Conditional statement:
+if
+else
+else if
+nested if
+switch - case
+
+switch(condition)
+{
+	case 1:
+	case 2:
+	case 3:
+}
+
+printf -> print
+scanf -> user input
+
+data type:
+int
+float
+character 
+double
+
+Op:
+1)Arithmetic Op: +,-,*,/,%
+2)Assignment Op: =
+3)Logical Op: &&,||,!
+4)Relational Op:<,>,<=,>=,==,!=
+5)Shorthand Op/Assignment Op:+=,-=,*=,/=
+
+
+c=a+b
+a=a+b
+a!b
+=======================================================
+Loop:
+
+1. Entry Control Loop : for,while
+2. Exit Control Loop : do while
+
+1. For Loop:
+
+for(initialization;condition;incre/decre)
+{
+
+}
+
+2. While Loop:
+
+initialization;
+
+while(condition)
+{
+	incre/decre;
+}
+
+3. Do-While Loop:
+
+initialization;
+do
+{
+incre/decre;
+}
+while(condition);
+
+
+
+
+
+
+
+
+
+
+
+
+
