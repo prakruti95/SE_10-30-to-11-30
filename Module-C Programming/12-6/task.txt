@@ -1,0 +1,5 @@
+1. Write a program to print the number in reverse order.
+2 .Write a program to find out the max from given number
+(E.g. No: -1562 Max number is 6 )
+3 .Write a program to find out the min from given number
+4.Find the Factorial of Given number.
