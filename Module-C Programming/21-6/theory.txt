@@ -1,0 +1,37 @@
+Array: Collection of elements that is called Array.
+
+types of Array:
+1)Single Dimensional Array -> single array
+2)Multi Dimensional Array-> 
+2-D
+3-D
+4-D
+
+		Or
+
+1)one dimensional array
+2)two dimensional array
+
+symbol : [size]
+
+
+int marks[5];
+Array's index will start with 0.
+
+
+Task : 
+-> Get value for diffrent subjects and find the percentage
+-> Get the userinput in array and findout the maximum number from given 
+   list
+-> Get the userinput in array and findout the minimum number from given 
+   list
+
+
+
+
+
+
+
+
+
+
