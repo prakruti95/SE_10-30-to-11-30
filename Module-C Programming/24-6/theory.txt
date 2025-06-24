@@ -1,0 +1,11 @@
+Functions:multiple time call
+1)Inbuilt Function
+-> String
+-> math
+
+2)User-Defined Function
+ -> With Para With Return type
+ -> with para without return type
+ -> with return type without para
+ -> without para without return type
+
