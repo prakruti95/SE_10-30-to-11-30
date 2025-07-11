@@ -1,0 +1,15 @@
+Constructor:Class having same name as a method name
+
+Types of Constructor:
+1)default
+2)parameterized
+3)copy
+
+1.
+Tops()
+{
+}
+2.
+Tops(int a,int b)
+{
+}
