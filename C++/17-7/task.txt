@@ -1,0 +1,19 @@
+Bike Agency:
+
+Vehicle No :
+RC Book No :
+Model Year : 
+Vehicle Condition : Options [Good,Medium,Poor]
+Insurance -Running/Expired:
+Accidental insurance - YES
+Company:
+
+Concepts Used: Condition,Loop,Function,
+
+Price Generate
+ 
+
+
+
+
+
