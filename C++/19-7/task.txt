@@ -1,0 +1,81 @@
+1. Inheritance:
+
+Design and implement a payroll system for a company.
+ The system must handle multiple types of employees such as:
+
+FullTime
+
+PartTime
+
+Intern
+
+Contractor
+
+Each employee type has a different salary structure, and 
+may include allowances, bonuses, deductions, or hourly wages.
+All employee types must share common data like:
+
+Employee ID
+
+Name
+
+Department
+
+Joining Date
+
+Additionally, include:
+
+Specialized roles like Manager or TeamLead (can be derived from FullTime).
+
+A common base class Employee from which all types inherit.
+
+A method to calculate net salary that should be 
+implemented/overridden in each derived class.
+
+
+
+2. Inheritance with Polymorphism:
+Design a banking system that handles different types of bank accounts, such as:
+
+SavingsAccount
+
+CurrentAccount
+
+FixedDepositAccount
+
+RecurringDepositAccount
+
+All accounts must inherit from a common base class BankAccount, which stores:
+
+Account number
+
+Account holder name
+
+Balance
+
+Branch name
+
+Opening date
+
+Each account type should implement its own version of the following:
+
+calculateInterest()
+
+withdraw()
+
+deposit()
+
+displayAccountDetails()
+
+3.create a loan counting system suppose that i took a loan of 5 lakh on 8% intrest 
+for 7 years
+so how many EMI i need to pay with exact amount and also give me loan
+ending date.
+
+adv:
+Suppose that i will pay 50,000 in loan principle as a part payment
+then again count the new EMI need to pay with exact amount and also give 
+me loan ending date.
+
+
+
