@@ -1,0 +1,10 @@
+Abstraction -> 
+Encapsulation ->getter & Setter
+
+void draw()=0;
+
+file management
+exception
+string functions
+
+try,catch,throw,finally
