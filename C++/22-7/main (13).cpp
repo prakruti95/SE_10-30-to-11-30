@@ -3,6 +3,7 @@ using namespace std;
 class MyClass 
 {
     friend class SecondClass;
+   
     private:
     int secret;
     
@@ -28,11 +29,11 @@ class SecondClass
 int main()
 { 
     MyClass my_class;
-	SecondClass sec_class; 
+    SecondClass sec_class; 
 	
-	my_class.printmembers();
+	my_class.printmembers();//0
 	sec_class.change( my_class, 5 );
-	my_class.printmembers(); 
+	my_class.printmembers(); //5
     
     return 0;
 } 
