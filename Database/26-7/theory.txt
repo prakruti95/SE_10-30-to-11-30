@@ -1,0 +1,49 @@
+Database:MYSQL
+
+Database:
+Multiple Tables
+
+registration
+placement
+
+Software: Xampp
+
+Xampp
+X=> Cross Platform
+A=> Apache
+M=> Mysql
+P=> perl
+P=> phpmyadmin
+
+
+
+Wamp
+W=> Windows
+A=> Apache
+M=> Mysql
+P=> phpmyadmin
+
+Lamp
+L=> Linux
+A=> Apache
+M=> Mysql
+P=> phpmyadmin
+
+Mamp
+M=> Mac
+A=> Apache
+M=> Mysql
+P=> phpmyadmin
+
+Xampp link -> https://www.apachefriends.org/download.html
+8.0.30 / PHP 8.0.30
+
+
+
+
+
+
+
+
+
+
