@@ -1,0 +1,40 @@
+Joins:
+
+Keys:
+Constraint Keys:
+1) primary key -> avoid data duplication
+2) unique key -> allow only unique keys
+3) foreign key -> index
+
+Joins:
+
+1)SELECT* FROM location JOIN products ON location.id = products.id
+2)SELECT* FROM location LEFT JOIN products ON location.id = products.id
+3)SELECT* FROM location RIGHT JOIN products ON location.id = products.id
+4)SELECT* FROM location LEFT JOIN products ON location.id = products.id
+UNION
+SELECT* FROM location RIGHT JOIN products ON location.id = products.id
+
+Scalar Functions:
+1)UCASE:
+SELECT UCASE(NAME) FROM Students; 
+2)LCASE:
+SELECT LCASE(NAME) FROM Students; 
+3)MID:
+SELECT MID(NAME,1,4) FROM Students; 
+4)LEN:
+SELECT LENGTH(NAME) FROM Stuents; 
+5)ROUND:
+SELECT ROUND(MARKS,0) FROM table_name; 
+6)NOW:
+SELECT NAME, NOW() AS DateTime FROM Students
+7)FORMAT:
+SELECT NAME, FORMAT(Now(),'YYYY-MM-DD') AS Date FROM Students; 
+
+
+
+
+
+
+
+
