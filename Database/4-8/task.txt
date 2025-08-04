@@ -1,0 +1,6 @@
+Highest Salary:
+Select MAX(salary) from emp
+
+Second Highest Salary:
+Select MAX(salary) As second_highest from emp
+WHERE salary < (Select MAX(salary) from emp)
