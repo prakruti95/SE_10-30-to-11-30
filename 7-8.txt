@@ -1,0 +1,68 @@
+Exact pattern :
+1       1
+12     21
+123   321 
+1234 4321
+123454321
+
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+    int i, j, spaces;
+
+    for(i = 1; i <= 5; i++)
+    {
+     
+        for(j = 1; j <= i; j++)
+        {
+            printf("%d", j);
+        }
+
+        
+        spaces = 2 * (5 - i);
+        for(j = 1; j <= spaces; j++)
+        {
+            printf(" ");
+        }
+
+  
+        for(j = i; j >= 1; j--)
+        {
+            printf("%d", j);
+        }
+
+        printf("\n");
+    }
+
+    getch();
+}
+
+-------------------------------------------------------------
+Main Logic For value printing:
+main()
+{
+	for(i=1;i<=5;i++)
+	{
+		for(s=1;s<=5-i;s++)
+		{
+			printf(" ");
+		}
+//incre
+		for(j=1;j<=i;j++)
+		{
+			printf("%d",j);	
+		}
+//decre
+		for(j=i-1;j>=1;j--)
+		{
+			printf("%d",j);	
+		}
+		printf("\n");
+	}
+}
+
+
+
